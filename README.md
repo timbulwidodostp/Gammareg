@@ -1,6 +1,8 @@
 # Gammareg
 Classic gamma regression models Use Gammareg With (In) R Software
 
+https://www.youtube.com/watch?v=sA0h6jb3JgU
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
